@@ -1762,6 +1762,23 @@
         }
     },
     {
+        "key": "仓库",
+        "name": "仓库",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://tvbox.catvod.com/xs/spider.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json仓库.json"
+    },
+    {
         "key": "五五影视",
         "name": "💕五五影视丨多线",
         "type": 3,
