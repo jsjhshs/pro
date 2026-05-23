@@ -5,7 +5,7 @@
     "主页url": "https://qq.huang111.top/",
     "分类url": "https://qq.huang111.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
     //"分类": "番号资源$365#麻豆资源$423#杏吧资源$132#黄色仓库$382#森林资源$61#奥斯卡资源$296#百万资源$1#桃花资源$48#色猫资源$154#乐播资源$347#大地资源$18#奶香香资源$268",
-    //"特殊分类url": "新作上市,最新更新,最高分评价,今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}/page/{catePg}.html#今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}-hot/page/{catePg}.html#类型$https://qq.huang111.top/index.php/label/{cateId}.html",
+    "特殊分类url": "新作上市,最新更新,最高分评价,今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}/page/{catePg}.html#今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}-hot/page/{catePg}.html#类型$https://qq.huang111.top/index.php/label/{cateId}.html",
     "分类二次截取": "&&",
     "分类数组": "<a&&/a>",
     "分类标题": "\">&&<",
