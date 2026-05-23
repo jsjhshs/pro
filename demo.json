@@ -151,6 +151,125 @@
         }
     },
     {
+        "key": "miss",
+        "name": "miss",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/miss.json"
+    },
+    {
+        "key": "仓库",
+        "name": "仓库",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+            },
+            "ext": "./json/仓库.json"
+     },
+    {
+        "key": "酒店",
+        "name": "酒店",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/酒店.json"
+    },
+    {
+        "key": "绿色仓库",
+        "name": "绿色仓库",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/绿色仓库.json"
+    },
+    {
+        "key": "仓库主",
+        "name": "仓库主",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/仓库主.json"
+    },
+    {
+        "key": "yellow仓库",
+        "name": "yellow仓库",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/yellow仓库.json"
+    },
+    {
+        "key": "新黄仓库",
+        "name": "新黄仓库",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/新黄仓库.json"
+    },
+    {
         "key": "csp_PanSou",
         "name": "🥺盘搜┃搜索",
         "type": 3,
