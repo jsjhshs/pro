@@ -1,0 +1,40 @@
+{
+   "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "编码": "UTF-8",
+    "首页": "https://huangsck.cc/",
+    "主页url": "https://huangsck.cc/",
+    "分类url": "https://huangsck.cc/category/{cateId}/{catePg}/",
+    //"分类": "番号资源$365#麻豆资源$423#杏吧资源$132#黄色仓库$382#森林资源$61#奥斯卡资源$296#百万资源$1#桃花资源$48#色猫资源$154#乐播资源$347#大地资源$18#奶香香资源$268",
+    //"特殊分类url": "新作上市,最新更新,最高分评价,今日热门,本周热门,本月热门,$https://huangsck.cc/index.php/label/{cateId}/page/{catePg}.html#今日热门,本周热门,本月热门,$https://huangsck.cc/index.php/label/{cateId}-hot/page/{catePg}.html#类型$https://huangsck.cc/index.php/label/{cateId}.html",
+    "分类二次截取": "&&",
+    "分类数组": "<a&&/a>",
+    "分类标题": "\">&&<",
+    "分类Id": "category/&&/",//"type/id/&&.html",
+    //"二级目录": "类型",
+    "数组": "<li class=\"section-content__item\">&&</div>||类型--<a&&/a></div>", // 提取每个视频 div 作为数组
+   // "延迟": "1000",
+    //"标题": "||类型--class=\"text-nord13\">&&<",//||&&||首页-text2\">&&<", // 优先 title 属性，没找到则 font 文本
+    "链接": "||类型--https://huangsck.cc/index.php/vod/search/page/{pg}/wd/+wd/&&.html+.html",// 提取链接（从 a 的 href）
+    //"图片": "data-original=\"&&\"||src=\"&&\"||",
+  // "数组": "title=\"item.vod_name&&href>",//||分类--<dd>&&</dd>@@<li class=\"grid-item\">&&</li>||全部二级--<section class=\"item-box\">&&</h2>",//||分类--<a class&&</li>",
+    //"标题": "alt=\"&&\"",//[不含:item.vod_name]",//>&&</||主题--<h4>&&</h4>",
+    //"图片": "src=\"&&\"",//||全部二级--",
+    //"链接": "href=\"&&\"",//[不含:buildDetailUrl\\(item\\)]",//||分类--https://bior-lome-cvaz.adultporna-av106.com/+href=\"&&\"+/page/{catePg}/@@href=\"&&\"||全部二级--",
+    //"播放链接前缀": "https://bior-lome-cvaz.adultporna-av106.com/v/",
+    //"播放链接": "/v/&&\"",
+    //"播放链接": "player**\"url\":\"&&\"",
+    "直接播放": "1",
+   "嗅探词": ".m3u8",
+    "搜索模式": "1",
+    "搜索url": "https://huangsck.cc/search/{wd}/{pg}/"
+}
+https://huangsck.cc/index.php/vod/search/page/2/wd/%E9%AA%91%E4%B9%98%E4%BD%8D.html
+
+
+https://qq.huang400.top/
+
+https://huangsck.cc/
+
+
+
+https://huangsck.cc/category/cate73/6/

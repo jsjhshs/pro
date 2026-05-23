@@ -1,0 +1,295 @@
+{
+    "首页": "0",
+    "主页url": "https://www.missav365.top/dm194/cn",//"https://www.missav1.mom/dm194/cn",// "https://www.missav2.sbs/dm194/cn",
+    "分类url": "https://www.missav1.icu/{cateId}?sort={by}&filters={lang}&page={catePg}",
+    //"分类": "中文字幕$dm265/cn/chinese-subtitle#女优一览$cn/actresses#女优排行APR2026$cn/actresses/ranking#类型$cn/genres#发行商$cn/makers#今日热门$dm291/cn/today-hot#本周热门$dm169/cn/weekly-hot#本月热门$dm263/cn/monthly-hot#分类$sort#最新上传$new",
+    "特殊分类url": "中文字幕$https://www.missav1.icu/dm265/cn/chinese-subtitle?sort={by}&filters={lang}&page={catePg}#无码流出$https://www.missav1.icu/dm628/cn/uncensored-leak?sort={by}&filters={lang}&page={catePg}#VR$https://www.missav1.icu/cn/genres/VR?page={catePg}#今日热门$https://www.missav1.icu/dm291/cn/today-hot?sort={by}&filters={lang}&page={catePg}#本週热门$https://www.missav1.icu/dm169/cn/weekly-hot?page={catePg}#本月热门$https://www.missav1.icu/dm263/cn/monthly-hot?page={catePg}#女优排行APR2026$https://www.missav365.icu/cn/actresses/ranking",
+    "分类二次截取": "选单</span>&&<span>我的收藏</span>",
+    "分类数组": "<a&&a>",
+    "分类标题": "\">&&</",
+    "分类Id": "https://www.missav365.icu/&&\"",
+    "二级目录": "女优一览,女优排行APR2026,类型,发行商|folder-0-0-H",
+    //"二级目录二次截取": "",
+     //"分类Id": "",//"女优一览$<a href=\"&&\"#女优排行APR2026$<a href=\"&&\"",
+    //"起始页": "1",
+    //"二级目录数组": "女优一览$<li>&&</li>#女优排行APR2026$<li>&&</li>",//"<div class=\"space-y-4\">&&<li>",
+    //"二级目录标题": "女优一览$<img alt=\"&&\"#女优排行APR2026$<img alt=\"&&\"",
+   // "二级目录图片": "女优一览$<img**src=\"&&\"#女优排行APR2026$<img**src=\"&&\"",
+    //"二级Id": "女优一览二级$<a href=\"&&\"#女优排行APR2026$<a href=\"&&\"",
+    //"起始页": "1",
+    //"终止页": "200",
+  //  "二次截取": "",
+    "数组": "<div>&&/div></div>||女优一览,女优排行APR2026--<li>&&</li>||类型,发行商--<div>&&</div>",
+    "标题": "<img**alt=\"&&\"||女优一览,女优排行APR2026--<img**alt=\"&&\"||类型,发行商--\">&&</",
+    "副标题": "alt=\"&&\"",
+    "图片": "<img**data-src=\"&&\"||女优一览,女优排行APR2026,类型,发行商--<img src=\"&&\"",
+    "链接": "<a href=\"&&\"||女优一览,女优排行APR2026,类型,发行商--href=\"&&\"+?page={catePg}",
+    "播放数组": "var player_data={&&}",
+    "播放链接": "\"url\":\"&&\"",
+    "直接播放": "1",
+    "搜索模式": "1",
+    "搜索url": "https://www.missav365.icu/cn/search/{wd}?page={pg}",
+    "排序": "发行日期$released_at#最近更新$published_at#收藏数$saved#今日浏览$today_views#本周浏览$weekly_views#本月浏览$monthly_views#总浏览$views",
+"语言": "单人作品$individual#多人作品$multiple#中文字幕$chinese-subtitle"
+}
+```
+
+https://www.missav365.icu/cn/search/{wd}?page={pg}
+https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=published_at&page=2
+
+https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort={by}&filters={lang}&page=2
+
+"排序": "发行日期$released_at#最近更新$published_at#收藏数$saved#今日浏览$today_views#周浏览$weekly_views月浏览$monthly_views总浏览$views",
+"语言": "单人作品$individual#多人作品$multiple#中文字幕$chinese-subtitle",
+
+.                          <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=released_at&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        发行日期
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=published_at&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        最近更新
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=saved&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        收藏数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=today_views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        今日浏览数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=weekly_views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        本週浏览数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=monthly_views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        本月浏览数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        总浏览数
+                    </a>
+                            </div
+
+                        本週浏览数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=monthly_views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        本月浏览数
+                    </a>
+                                    <a href="https://www.thisav.sbs/dm265/cn/chinese-subtitle?sort=views&filters=individual" class="text-nord0 block px-4 py-2 text-sm leading-5 hover:bg-nord4">
+                        总浏览数
+                    </a>
+                            </div>
+        </div>
+    </div>
+</div>
+
+
+{
+    "首页": "0",
+    "主页url": "https://www.missav1.mom/dm194/cn",// "https://www.missav2.sbs/dm194/cn",
+    "分类url": "https://www.missav2.sbs/{cateId}?page={catePg}",
+    "分类": "中文字幕$dm265/cn/chinese-subtitle#女优一览$cn/actresses#女优排行APR2026$cn/actresses/ranking#类型$cn/genres#发行商$cn/makers#今日热门$dm169/cn/weekly-hot#本周热门$dm169/cn/weekly-hot#本月热门$dm263/cn/monthly-hot#分类$sort#最新上传$new",
+    "特殊分类url": "全部二级${cateId}?page={catePg}",
+   // "分类二次截取": "选单</span>&&<span>我的收藏</span>",
+    //"分类数组": "<a &&a>",
+   // "分类标题": "\">&&</",
+    //"分类Id": "href=\"&&\"",//"https://www.missav2.sbs/&&\"",
+    "二级目录": "女优一览#女优排行APR2026#类型#发行商|fold",
+    "二级目录二次截取": "",
+     "目录分类Id": "女优一览$<a href=\"&&\"#女优排行APR2026$<a href=\"&&\"",
+    //"起始页": "1",
+    "二级目录数组": "女优一览$<li>&&</li>#女优排行APR2026$<li>&&</li>",//"<div class=\"space-y-4\">&&<li>",
+    "二级目录标题": "女优一览$<img alt=\"&&\"#女优排行APR2026$<img alt=\"&&\"",
+    "二级目录图片": "女优一览$<img**src=\"&&\"#女优排行APR2026$<img**src=\"&&\"",
+    //"二级Id": "女优一览二级$<a href=\"&&\"#女优排行APR2026$<a href=\"&&\"",
+    //"起始页": "1",
+    //"终止页": "200",
+  //  "二次截取": "",
+    //"数组": "<div>&&</a>",
+    //"标题": "<img**alt=\"&&\"",
+    "图片": "<img**data-src=\"&&\"||女优一览--<img**data-src=\"&&\"",
+   // "链接": "<a href=\"&&\||女优一览二级--href=\"&&\"",
+    //"播放数组": "var player_data={&&}",
+    //"播放链接": "\"url\":\"&&\"",
+    "直接播放": "1",
+    "搜索模式": "1",
+    "搜索url": "https://blb.hsxhr2.hair/cn/home/web/index.php/vod/search.html?wd={wd}"
+}
+
+女优一览--class=\"actor-list-item\">&&</a>||类别--class=\"subtag\">&&</div>
+
+https://www.owoav.com/models/2.html
+https://www.owoav.com/models/shenmuli.html?page=2
+      </a>
+                                                                                                    <a href="https://www.missav1.icu/dm265/cn/chinese-subtitle" class="block px-4 py-2 text-sm leading-5 text-gray-700 hover:bg-nord4">
+                                        中文字幕
+                                    </a>
+                                                                <a @click.prevent="showCollapse = showCollapse === 'jav' ? null : 'jav'" href="#" class="flex items-center justify-between px-4 py-2 text-sm leading-5 text-nord0 hover:bg-nord4">
+    <span>观看日本 AV</span>
+    <svg x-show="showCollapse !== 'jav'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="display: none;">
+        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+    </svg>
+    <svg x-show="showCollapse === 'jav'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+    </svg>
+</a>
+<span x-show="showCollapse === 'jav'" style="">
+            <a href="https://www.missav1.icu/dm515/cn/new" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            最近更新
+        </a>
+            <a href="https://www.missav1.icu/dm590/cn/release" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            新作上市
+        </a>
+            <a href="https://www.missav1.icu/dm628/cn/uncensored-leak" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            无码流出
+        </a>
+            <a href="https://www.missav1.icu/cn/actresses" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            女优一览
+        </a>
+            <a href="https://www.missav1.icu/cn/actresses/ranking" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            女优排行 APR 2026
+        </a>
+            <a href="https://www.missav1.icu/cn/genres" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            类型
+        </a>
+            <a href="https://www.missav1.icu/cn/makers" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            发行商
+        </a>
+            <a href="https://www.missav1.icu/cn/genres/VR" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            VR
+        </a>
+            <a href="https://www.missav1.icu/dm291/cn/today-hot" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            今日热门
+        </a>
+            <a href="https://www.missav1.icu/dm169/cn/weekly-hot" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            本週热门
+        </a>
+            <a href="https://www.missav1.icu/dm263/cn/monthly-hot" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            本月热门()
+      
+      </svg>
+    <svg x-show="showCollapse === 'amateur'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="display: none;">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+    </svg>
+</a>
+<span x-show="showCollapse === 'amateur'" style="display: none;">
+            <a href="https://www.missav2.sbs/dm23/cn/siro" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            SIRO
+        </a>
+            <a href="https://www.missav2.sbs/dm21/cn/luxu" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            LUXU
+        </a>
+            <a href="https://www.missav2.sbs/dm17/cn/gana" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            GANA
+        </a>
+            <a href="https://www.missav2.sbs/dm863/cn/maan" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            PRESTIGE PREMIUM
+        </a>
+            <a href="https://www.missav2.sbs/dm25/cn/scute" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            S-CUTE
+        </a>
+            <a href="https://www.missav2.sbs/dm20/cn/ara" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            ARA
+        </a>
+    </span>
+                                <a @click.prevent="showCollapse = showCollapse === 'uncensored' ? null : 'uncensored'" href="#" class="flex items-center justify-between px-4 py-2 text-sm leading-5 text-nord0 hover:bg-nord4">
+    <span>无码影片</span>
+    <svg x-show="showCollapse !== 'uncensored'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+    </svg>
+    <svg x-show="showCollapse === 'uncensored'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="display: none;">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+    </svg>
+</a>
+<span x-show="showCollapse === 'uncensored'" style="display: none;">
+            <a href="https://www.missav2.sbs/dm628/cn/uncensored-leak" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            无码流出
+        </a>
+            <a href="https://www.missav2.sbs/dm150/cn/fc2" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            FC2
+        </a>
+            <a href="https://www.missav2.sbs/dm1198483/cn/heyzo" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            HEYZO
+        </a>
+            <a href="https://www.missav2.sbs/dm29/cn/tokyohot" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            东京热
+        </a>
+            <a href="https://www.missav2.sbs/dm2469695/cn/1pondo" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            一本道
+        </a>
+            <a href="https://www.missav2.sbs/dm3959622/cn/caribbeancom" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            Caribbeancom
+        </a>
+            <a href="https://www.missav2.sbs/dm48032/cn/caribbeancompr" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            Caribbeancompr
+        </a>
+            <a href="https://www.missav2.sbs/dm3710098/cn/10musume" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            10musume
+        </a>
+            <a href="https://www.missav2.sbs/dm1342558/cn/pacopacomama" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            pacopacomama
+        </a>
+            <a href="https://www.missav2.sbs/dm136/cn/gachinco" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            Gachinco
+        </a>
+            <a href="https://www.missav2.sbs/dm29/cn/xxxav" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            XXX-AV
+        </a>
+            <a href="https://www.missav2.sbs/dm24/cn/marriedslash" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            人妻斩
+        </a>
+            <a href="https://www.missav2.sbs/dm20/cn/naughty4610" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            顽皮 4610
+        </a>
+            <a href="https://www.missav2.sbs/dm22/cn/naughty0930" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            顽皮 0930
+        </a>
+    </span>
+                                <a @click.prevent="showCollapse = showCollapse === 'madou' ? null : 'madou'" href="#" class="flex items-center justify-between px-4 py-2 text-sm leading-5 text-nord0 hover:bg-nord4">
+    <span>亚洲 AV</span>
+    <svg x-show="showCollapse !== 'madou'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+    </svg>
+    <svg x-show="showCollapse === 'madou'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="display: none;">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+    </svg>
+</a>
+<span x-show="showCollapse === 'madou'" style="display: none;">
+            <a href="https://www.missav2.sbs/dm35/cn/madou" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            麻豆传媒
+        </a>
+            <a href="https://www.missav2.sbs/dm18/cn/twav" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            TWAV
+        </a>
+            <a href="https://www.missav2.sbs/dm15/cn/furuke" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            Furuke
+        </a>
+            <a href="https://www.missav2.sbs/cn/klive" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            韩国直播
+        </a>
+            <a href="https://www.missav2.sbs/cn/clive" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            中国直播
+        </a>
+    </span>
+                                <a @click.prevent="showCollapse = showCollapse === 'saved' ? null : 'saved'" href="#" class="flex items-center justify-between px-4 py-2 text-sm leading-5 text-nord0 hover:bg-nord4">
+    <span>我的收藏</span>
+    <svg x-show="showCollapse !== 'saved'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+    </svg>
+    <svg x-show="showCollapse === 'saved'" class="ml-2 h-5 w-5 text-nord0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" style="display: none;">
+        <path fill-rule="evenodd" d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+    </svg>
+</a>
+<span x-show="showCollapse === 'saved'" style="display: none;">
+            <a href="https://www.missav2.sbs/cn/vip" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            升级 VIP
+        </a>
+            <a href="https://www.missav2.sbs/cn/saved" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            我的影片收藏
+        </a>
+            <a href="https://www.missav2.sbs/cn/playlists" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            我的片单
+        </a>
+            <a href="https://www.missav2.sbs/cn/saved/actresses" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            我的女优一览收藏
+        </a>
+            <a href="https://www.missav2.sbs/cn/history" class="block px-4 py-2 text-sm leading-5 text-nord5 bg-nord3 hover:bg-nord2">
+            观看记录
+        </a>
+        
+imgsrc="https
