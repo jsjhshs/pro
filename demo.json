@@ -169,7 +169,7 @@
     },
     {
         "key": "仓库",
-        "name": "仓库",
+        "name": "🥺仓库",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -186,7 +186,7 @@
      },
     {
         "key": "酒店",
-        "name": "酒店",
+        "name": "🥺酒店",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -203,7 +203,7 @@
     },
     {
         "key": "绿色仓库",
-        "name": "绿色仓库",
+        "name": "🥺绿色仓库",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -220,7 +220,7 @@
     },
     {
         "key": "仓库主",
-        "name": "仓库主",
+        "name": "🥺仓库主",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -237,7 +237,7 @@
     },
     {
         "key": "yellow仓库",
-        "name": "yellow仓库",
+        "name": "🥺yellow仓库",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -254,7 +254,7 @@
     },
     {
         "key": "新黄仓库",
-        "name": "新黄仓库",
+        "name": "🥺新黄仓库",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
