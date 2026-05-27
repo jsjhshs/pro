@@ -315,6 +315,66 @@
         "ext": "./json/新黄仓库.json"
     },
     {
+        "key": "py_51吃瓜",
+        "name": "🅿️51吃瓜",
+        "type": 3,
+        "api": "./py/51吃瓜.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+   {
+        "key": "py_51吃瓜轻量版",
+        "name": "🅿️51吃瓜轻量版",
+        "type": 3,
+        "api": "./py/51吃瓜轻量版.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+   {
+        "key": "py_91",
+        "name": "🅿️91",
+        "type": 3,
+        "api": "./py_91.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+   {
+        "key": "py_香蕉视频",
+        "name": "🅿️香蕉视频",
+        "type": 3,
+        "api": "./py/香蕉视频.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
         "key": "csp_PanSou",
         "name": "🥺盘搜┃搜索",
         "type": 3,
