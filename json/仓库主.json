@@ -1,26 +1,15 @@
 {
-   "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+   //"请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
     "编码": "UTF-8",
     "首页": "https://qq.huang111.top/",
     "主页url": "https://qq.huang111.top/",
     "分类url": "https://qq.huang111.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-    //"分类": "番号资源$365#麻豆资源$423#杏吧资源$132#黄色仓库$382#森林资源$61#奥斯卡资源$296#百万资源$1#桃花资源$48#色猫资源$154#乐播资源$347#大地资源$18#奶香香资源$268",
+    "分类": "新作上市$release#最近更新$new#最高分评价$score#今日热门$today#本周热门$weekly#本月热门$monthly#分类$categories#类型$genres#全部日韩$21#中文字幕$20#有码精品$44#童颜巨乳$45#制服丝袜$46#熟女人妻$47#强奸乱伦$48#女优明星$49#SM调教$50#无码破解$23#精品无码$43#素人中出无码FC2$30#巨乳少女无码HEYZO$31#重口强奸无码tokyohot$32#萝莉高颜值无码1pondo$33#美熟女无码xxxav$39#出轨乱伦无码Caribbeancom$34#素人面试无码10musume$36#人妻素人无码pacopacomama$37#重口素人无码gachinco$38#熟女无码C0930$40#重口熟女无码H0930$41#极熟女无码H4610$42#更多精品素人$51#面试约拍系列素人SIRO$52#高颜值美人259LUXU$53#恋爱风素人S-CUTE$59#街头搭讪200GANA$54#高颜值搭讪300MIUM$55#应募素人300MAAN$56#搭讪快速中出300NTK$57#面接素人230ORECO$58#真实初次素人261ARA$60#少女恋爱系列390JAC$61#人妻乱伦素人328HMDN$62#日本VR影片$85#水果派解说$63#韩国主播$28#全部国产$27#麻豆传媒$65#精品传媒$66#国产推荐$67#国产精品$68#自拍偷拍$70#国产主播$69#网红头条$71#黑料网曝门$72#家庭乱伦$73#国产丝袜$74#探花约炮$75#国产SM$77#国产人妻$78#cosplay$79#SWAG$81#学生激情$86#明星换脸$83#抖阴视频$80#全部欧美$101#欧美高清$29#全部动漫$102#激情动漫$82#全部新线路$87#有码破解$103#欧美高清$104#动漫剧情$105#国产系列$99#日本有码$98#日本无码$97#有码中文字幕$96#无码中文字幕$95",
     "特殊分类url": "新作上市,最新更新,最高分评价,今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}/page/{catePg}.html#今日热门,本周热门,本月热门,$https://qq.huang111.top/index.php/label/{cateId}-hot/page/{catePg}.html#类型$https://qq.huang111.top/index.php/label/{cateId}.html",
-    //"分类二次截取": "&&",
-    "分类数组": "<a&&/a>",
-    "分类标题": "\">&&<",
-    "分类Id": "type/id/&&.html",
-   // "二级目录": "类型",
-    "数组": "<div class=\"thumbnail\">&&</a></div>||类型--<a&&/a></div>", // 提取每个视频 div 作为数组
-   // "延迟": "1000",
-    //"标题": "||类型--class=\"text-nord13\">&&<",//||&&||首页-text2\">&&<", // 优先 title 属性，没找到则 font 文本
-    "链接": "||类型--https://qq.huang111.top/index.php/vod/search/page/{pg}/wd/+wd/&&.html+.html",// 提取链接（从 a 的 href）
-    //"图片": "data-original=\"&&\"||src=\"&&\"||",
-  // "数组": "title=\"item.vod_name&&href>",//||分类--<dd>&&</dd>@@<li class=\"grid-item\">&&</li>||全部二级--<section class=\"item-box\">&&</h2>",//||分类--<a class&&</li>",
-    //"标题": "alt=\"&&\"",//[不含:item.vod_name]",//>&&</||主题--<h4>&&</h4>",
-    //"图片": "src=\"&&\"",//||全部二级--",
-    //"链接": "href=\"&&\"",//[不含:buildDetailUrl\\(item\\)]",//||分类--https://bior-lome-cvaz.adultporna-av106.com/+href=\"&&\"+/page/{catePg}/@@href=\"&&\"||全部二级--",
-    //"播放链接前缀": "https://bior-lome-cvaz.adultporna-av106.com/v/",
+    "数组": "<div class=\"thumbnail\">&&</div></div>",
+    "标题": "title=\"&&\"",//||&&||首页-text2\">&&<", // 优先 title 属性，没找到则 font 文本
+    "链接": "href=\"&&\"",// 提取链接（从 a 的 href）
+    "图片": "<img**data-src=\"&&\"||src=\"&&\"||",
     //"播放链接": "/v/&&\"",
     //"播放链接": "player**\"url\":\"&&\"",
     "直接播放": "1",
@@ -28,12 +17,3 @@
     "搜索模式": "1",
     "搜索url": "https://qq.huang111.top/index.php/vod/search/page/{pg}/wd/{wd}.html"
 }
-https://2201.huang222.top/index.php/vod/search/page/2/wd/%E9%AA%91%E4%B9%98%E4%BD%8D.html
-
-
-https://qq.huang400.top/
-
-https://qq.huang111.top/index.php/vod/show/by/time_add/id/95.html#
-
-
-https://qq.huang111.top/index.php/vod/type/id/95/page/2.html
