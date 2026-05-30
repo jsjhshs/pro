@@ -1,4 +1,104 @@
 {
+    "首页": "首页$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---",
+     "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "主页url": "https://i2v1nm1lts.cysnkime.buzz/vod/",
+    "分类url": "https://i2v1nm1lts.cysnkime.buzz/vodtype/{cateId}-{catePg}/",
+     "特殊分类url": "首页$https://i2v1nm1lts.cysnkime.buzz/vod/#热词$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---/",
+    "分类": "首页$12#催眠洗脑$405#国产自拍$375#传媒自拍$6#抖阴视频$308#制服丝袜$76#日韩无码$282#颜射系列$147#亚洲有码$72#精品推荐$62#杏吧资源$132#热词$ssis",
+    //"特殊分类url": "首页$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---/",
+   // "分类二次截取": "&&",
+    "分类数组": "<dd>&&</dd>",
+    "分类标题": "\">&&</a>",//"<text>&&</text>",
+    "分类Id": "vodtype/&&.html",
+    //"二级目录": "
+    "数组": "<dl>&&</dl>",//||女优--<div class=\"col\">&&</a>||分类,发行商--<div class=\"col\">&&</a>",
+    "图片": "data-original=\"&&\"||<img**src=\"&&\"",//"data-original=\"&&\"",<img**data-original="
+    //"副标题": "<p>
+    "标题": "<h3>&&</h3>",//||女优,分类,发行商--<img**src=\"&&\"",
+    "链接": "/vodplay/+/voddetail/&&/+-1-1/",//||女优,分类,发行商--href=\"&&\"+?&idx={catePg}&sort={by}",
+    "播放数组": "detail\"&&</main>",
+    "播放链接": "href=\"&&\"",
+    "直接播放": "1",
+    //"跳转播放链接": "\"url\":\"&&\"",
+    "嗅探词": ".m3u8",
+    "搜索模式": "1",
+    "搜索url": "https://i2v1nm1lts.cysnkime.buzz/vodsearch/{wd}----------{pg}---/",
+    "类型": "空||催眠洗脑$405#AI换脸$409#大秀视频$38#中文字幕$283#女优明星$309#乐播资源$347#素人自拍$80||国产自拍$375#明星换脸$307#制服丝袜$76#卡通动漫$370#黑料吃瓜$51#重口激情$289#动漫肉番$10#虚拟VR$381||传媒自拍$6#热门事件$5#动漫肉番$10#精东影业$430#欧美$52#野外露出$90#SM重味$145#女同性爱$173||抖阴视频$308#成人动漫$74#亚洲有码$72#貧乳小奶$179#中文字幕$66#国产精品$35||制服丝袜$76#少女萝莉$379#国产色情$63#虚拟VR$381#3P合辑$29#AV解说$16#VR视角$294#天美传媒$426||日韩无码$282#自拍偷拍$75#群交淫乱$367#颜射系列$32#换脸明星$285#探花系列$180||颜射系列$147#主播诱惑$275#抖阴视频$308#重口色情$362#女同性恋$293#欧美精品$69#女同性恋$316#制服诱惑$27||亚洲有码$72#群交淫乱$367#华语AV$50#欧美无码$302#剧情介绍$86#亚洲有码$72#学生$54#AV解说$312#可爱学生$93#人妖系列$318#欧美$52||精品推荐$62#网曝吃瓜$278#制服丝袜$76#大象传媒$431#欧美无码$302#主播诱惑$275||杏吧资源$132#国产色情$63#葫芦影业$442#日本无码$8||群交&多p&高潮&绝顶&对白&连续&多人&不中断&纪念&ss&顶级&女优&网袜&导师&纤细&美腿&清纯&小姐&菊花&爆菊&求饶&短裙&浴场&迷晕&嫖妓&旅馆&正妹&紧身&白皙&老婆&中出&女模&按摩&阴道&淫荡&手机&开档&拍摄&海滩&沙滩&奴隶&惩罚&精液&午睡&嫂子&上位&秘书&上班&强迫&男友&甜蜜&温柔&暴力&撕烂&日逼&女星&卖淫&夜班&尾随&色狼&痴汉&偶遇&巨乳&调教&萝莉&自慰&妈妈&母子&黑人&强奸&熟女&偷拍&人妖&迷奸&足交&伪娘&女儿&幼女&黑丝&内射&破处&丝袜&抖音&国产&绳子&美臀&哥哥&禽兽&灌倒&做客&狗链&主妇&美鲍&偷约&技师&美人&处女&清秀&新娘&跳蛋&诱奸&学生&日本&空姐&丝足"
+    //"剧情": "蛤蛤||中文字幕&巨乳美乳&强奸乱伦&制服丝袜&萝莉少女&精品素人&女同性恋&亚洲无码&亚洲有吗码||国产传媒&国产乱伦&网红主播&探花约炮&网曝吃瓜&麻豆传媒&女神尤物&成人动漫",
+   // "剧情值": "*",
+   // "排序": "最新$newstime#周榜$week#月榜$month#年榜$year#所有$all"
+}
+``
+
+
+https://jpttcntv2.cc/factory?idx=2&sort=1
+
+https://jpttcntv2.cc/factory?idx=2&sort=3
+
+https://jpttcntv2.cc/actor_list?idx=2
+
+https://jpttcntv2.cc/tag?idx=2&sort=3
+
+
+https://jpttcntv2.cc/post_list?idx=2
+
+https://jpttcntv2.cc/list?idx=2&sort=4
+
+
+https://jpttcntv2.cc/actor?id=888&idx={catePg}&sort={by}
+>
+                </div>
+                            <div class="col">
+                    <div class="type-item">
+                        <a href="/tag_list?fid=15">
+                            <div class="type-info">
+                                <h5 class="pt-3">レイディックス</h5>
+                                                                    <p>300 部影片</p>
+                                
+                            </div>
+                                                            <img loading="lazy" class="img_tag_cover" src="/img/video-icon.svg" alt="レイディックス"/>
+                                                    </a>
+                    </div>
+                    
+                    
+</div>
+                </div>
+                            <div class="col">
+                    <div class="type-item">
+                        <a href="/tag_list?tid=75">
+                            <div class="type-info">
+                                <h5 class="pt-3">癡女</h5>
+                                                                    <p>9999+ 部影片</p>
+                                
+                            </div>
+                                                            <img loading="lazy" class="img_tag_cover" src="/img/video-icon.svg" alt="癡女"/>
+                                                    </a>
+                    </div>
+                    
+                    
+</div>
+                        </a>
+                    </div>
+                </div>
+                            <div class="col">
+                    <div class="idol-item">
+                        <a href="/actor?id=96">
+                            <div class="idol-img actor_photo">
+                                
+                                
+                                <img loading="lazy" class="actor_cover" src="/storage/actors/avatar/96.jpg?1779742230" alt="" onerror="loadError(this)">
+                                
+                                
+                                
+                            </div>
+                            <div class="idol-info pt-2">
+                                <h5>皆月光</h5>
+                                
+                            </div>
+                        </a>
+
+
+{
      //"请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
     "编码": "UTF-8",
     "首页": "https://1k3cibj1lm.mdr-ky.buzz/video/",
