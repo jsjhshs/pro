@@ -9,18 +9,12 @@
    // "分类二次截取": "注册&&小学生",
     //"分类数组": "<li>&&</li>",
     //"分类标题": "title=\"&&\"",
-    "分类Id": "vodtype/&&/",//"type/id/&&.html",
+    //"分类Id": "vodtype/&&/",//"type/id/&&.html",
     //"二级目录": "首页",
-    "数组": "<div class=\"video-item\">&&</a>", // 提取每个视频 div 作为数组项
-    "标题": "alt=\"&&\"",//||&&||首页-text2\">&&<", // 优先 title 属性，没找到则 font 文本
+    "数组": "video-item&&</a>", // 提取每个视频 div 作为数组项
+    "标题": "<img**alt=\"&&\"",//||&&||首页-text2\">&&<", // 优先 title 属性，没找到则 font 文本
     "链接": "a href=\"&&\"", // 提取链接（从 a 的 href）
-    "图片": "data-original=\"&&\"||src=\"&&\"||",
-  // "数组": "title=\"item.vod_name&&href>",//||分类--<dd>&&</dd>@@<li class=\"grid-item\">&&</li>||全部二级--<section class=\"item-box\">&&</h2>",//||分类--<a class&&</li>",
-    //"标题": "alt=\"&&\"",//[不含:item.vod_name]",//>&&</||主题--<h4>&&</h4>",
-    //"图片": "src=\"&&\"",//||全部二级--",
-    //"链接": "href=\"&&\"",//[不含:buildDetailUrl\\(item\\)]",//||分类--https://bior-lome-cvaz.adultporna-av106.com/+href=\"&&\"+/page/{catePg}/@@href=\"&&\"||全部二级--",
-    //"播放链接前缀": "https://bior-lome-cvaz.adultporna-av106.com/v/",
-    //"播放链接": "/v/&&\"",
+    "图片": ""<img**data-original=\"&&\"",
     "播放链接": "player**\"url\":\"&&\"",
     "直接播放": "1",
    "嗅探词": ".m3u8",
