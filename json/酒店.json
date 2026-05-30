@@ -1,18 +1,18 @@
 {
-    "首页": "首页$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---",
-     "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "首页": "首页$https://i2v1nm1lts.cysnkime.buzz/vod/",
+     //"请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
     "主页url": "https://i2v1nm1lts.cysnkime.buzz/vod/",
     "分类url": "https://i2v1nm1lts.cysnkime.buzz/vodtype/{cateId}-{catePg}/",
      "特殊分类url": "首页$https://i2v1nm1lts.cysnkime.buzz/vod/#热词$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---/",
     "分类": "首页$12#催眠洗脑$405#国产自拍$375#传媒自拍$6#抖阴视频$308#制服丝袜$76#日韩无码$282#颜射系列$147#亚洲有码$72#精品推荐$62#杏吧资源$132#热词$ssis",
     //"特殊分类url": "首页$https://i2v1nm1lts.cysnkime.buzz/vodsearch/{cateId}----------{cayePg}---/",
    // "分类二次截取": "&&",
-    "分类数组": "<dd>&&</dd>",
-    "分类标题": "\">&&</a>",//"<text>&&</text>",
-    "分类Id": "vodtype/&&.html",
+    //"分类数组": "<dd>&&</dd>",
+    //"分类标题": "\">&&</a>",//"<text>&&</text>",
+   // "分类Id": "vodtype/&&.html",
     //"二级目录": "
-    "数组": "<dl>&&</dl>",//||女优--<div class=\"col\">&&</a>||分类,发行商--<div class=\"col\">&&</a>",
-    "图片": "data-original=\"&&\"||<img**src=\"&&\"",//"data-original=\"&&\"",<img**data-original="
+    "数组": "<dl>&&</dl>",
+    "图片": "data-original=\"&&\"||<img**src=\"&&\"",
     //"副标题": "<p>
     "标题": "<h3>&&</h3>",//||女优,分类,发行商--<img**src=\"&&\"",
     "链接": "/vodplay/+/voddetail/&&/+-1-1/",//||女优,分类,发行商--href=\"&&\"+?&idx={catePg}&sort={by}",
