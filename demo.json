@@ -229,6 +229,23 @@
             },
             "ext": "./json/仓库.json"
      },
+     {
+        "key": "无码",
+        "name": "🥺无码",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+            },
+            "ext": "./json/无码.json"
+     },
     {
         "key": "酒店",
         "name": "🥺酒店",
