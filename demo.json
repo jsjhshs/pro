@@ -137,7 +137,8 @@
       "key": "SportKanqiu",
       "name": "🌐八八┃体育🌐",
       "type": 3,
-      "api": "csp_SportKanqiuGuard",     "jar":"https://nos.netease.com/ysf/b36b5f196bbc71d1a3a6192ba379cf2a.txt;md5;3a4f1cbcc018772b077af417d89357e2",
+      "api": "csp_SportKanqiuGuard",     
+      "jar":"./jar/dummy1.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
       "searchable": 1,
       "changeable": 0
     },
