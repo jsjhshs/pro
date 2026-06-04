@@ -1,0 +1,170 @@
+{
+    "spider": "./so0604.jar",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "sites": [
+        {
+            "key": "油管so",
+            "name": "油管so",
+            "type": 3,
+            "api": "csp_Ytdl",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": {
+                "proxy": "http://127.0.0.1:7890",
+                "youtube_txt": "storage/lz/youtube.txt"
+            },
+            "filterable": 1
+        },
+        {
+            "key": "听书so",
+            "name": "听书so",
+            "type": 3,
+            "api": "csp_TingShu",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "哔哩so",
+            "name": "哔哩so",
+            "type": 3,
+            "api": "csp_Bilibili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "http://127.0.0.1:9978/file/lz/bilibili.txt",
+            "changeable": 1
+        },
+        {
+            "key": "华人so",
+            "name": "华人so",
+            "type": 3,
+            "api": "csp_Hua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "filterable": 1
+        },
+        {
+            "key": "捡的音乐so",
+            "name": "捡的音乐so",
+            "type": 3,
+            "api": "csp_Music1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "http://127.0.0.1:9978/file/lz/jdyy.json",
+            "filterable": 1
+        },
+        {
+            "key": "采集全集",
+            "name": "采集全集",
+            "type": 3,
+            "api": "csp_CJJH",
+            "ext": "http://127.0.0.1:9978/file/lz/cj.json#2",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "阅读源so",
+            "name": "阅读源so",
+            "type": 3,
+            "api": "csp_Lego",
+            "ext": "http://127.0.0.1:9978/file/lz/sources.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
+        {
+            "key": "本地小说so",
+            "name": "本地小说so",
+            "type": 3,
+            "api": "csp_NovelBd",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }
+    ],
+    "proxy": [
+        {
+            "name": "TW-4GTV",
+            "hosts": [
+                "hinet.net",
+                "cdn.hinet.net",
+                "4gtv.tv",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*",
+                "infini.money"
+            ],
+            "urls": [
+                "http://127.0.0.7890"
+            ]
+        },
+        {
+            "name": "YouTube",
+            "hosts": [
+                "youtube.com",
+                "www.youtube.com",
+                "m.youtube.com",
+                "youtu.be",
+                "googlevideo.com",
+                "ytimg.com",
+                "i.ytimg.com",
+                "ggpht.com",
+                "yt3.ggpht.com",
+                "googleapis.com",
+                "youtubei.googleapis.com",
+                "gstatic.com",
+                "nhacmp3youtube.com"
+            ],
+            "urls": [
+                "http://127.0.0.1:7890"
+            ]
+        },
+        {
+            "name": "stream",
+            "hosts": [
+                "stream1.freetv.fun",
+                "stream-link.org",
+                "infini.money"
+            ],
+            "urls": [
+                "http://127.0.0.1:7890",
+                "https://127.0.0.1:7890"
+            ]
+        },
+        {
+            "name": "US",
+            "hosts": [
+                "playouts.now.amagi.tv",
+                "rastamusic.streamguys1.com",
+                "tunein.cdnstream1.com",
+                "prd.pluto.tv"
+            ],
+            "urls": [
+                "http://127.0.0.1:7890",
+                "https://127.0.0.1:7890"
+            ]
+        }
+    ]
+}
