@@ -15,7 +15,7 @@
             },
             "ext": {
                 "proxy": "http://127.0.0.1:7890",
-                "youtube_txt": "./json/youtube.txt"
+                "youtube_txt": "../json/youtube.txt"
             },
             "filterable": 1
         },
