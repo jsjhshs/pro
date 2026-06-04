@@ -1,5 +1,5 @@
 {
-    "spider": "./so0604.jar",
+    "spider": "./jar/so0604.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -15,7 +15,7 @@
             },
             "ext": {
                 "proxy": "http://127.0.0.1:7890",
-                "youtube_txt": "storage/lz/youtube.txt"
+                "youtube_txt": "http://127.0.0.1:9978/file/lz/youtube.txt"
             },
             "filterable": 1
         },
