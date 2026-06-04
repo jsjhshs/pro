@@ -126,7 +126,7 @@
       "name": "🌐球通┃体育🌐",
       "type": 3,
       "api": "csp_SportKanQiuTongGuard",
-      "jar":"./jar/dummy.txt;md5;97d788866a626c470cbcf7698dc08900",
+      "jar":"./jar/dummy.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -138,7 +138,7 @@
       "name": "🌐八八┃体育🌐",
       "type": 3,
       "api": "csp_SportKanqiuGuard",     
-      "jar":"./jar/dummy2.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "jar":"./jar/dummy2.txt;md5;97d788866a626c470cbcf7698dc08900",
       "searchable": 1,
       "changeable": 0
     },
