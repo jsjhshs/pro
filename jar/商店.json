@@ -1,0 +1,63 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "ok影视手机版",
+                "url": "http://xw.123234567.xyz:60255/jiduo/OKSJ64.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "OK影视电视版",
+                "url": "http://xw.123234567.xyz:60255/jiduo/OKTV32.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "OK影视电视版",
+                "url": "http://xw.123234567.xyz:60255/jiduo/OKTV64.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "py-v8a"
+            },
+            {
+                "name": "蜂蜜影视电视版",
+                "url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/FongMi/Release/ea76abb1f5b020984e926138f75899671c1c33db/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "py-v7a"
+            },
+            {
+                "name": "蜂蜜影视电视版",
+                "url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/FongMi/Release/ea76abb1f5b020984e926138f75899671c1c33db/apk/release/leanback-arm64_v8a.apk",
+                "icon": "https://d.dayeapp.net/y.jpg",
+                "version": "py-v8a"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "VOX",
+                "url": "http://xw.123234567.xyz:60255/jiduo/vox本地包.zip",
+                "icon": "https://d.dayeapp.net/o.jpg",
+                "copy": "",
+                "version": "占位"
+            },
+            {
+                "name": "ssvip.jar",
+                "url": "https://kong88.dpdns.org/ssvip.jar",
+                "icon": "https://d.dayeapp.net/o.jpg",
+                "copy": "",
+                "version": "占位"
+            },
+            {
+                "name": "mp4",
+                "url": "https://st.pgdjz.fun/%2Fzwmtv%2F2023%2F%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-%E8%A5%BF%E6%A5%BC%E5%84%BF%E5%A5%B3%28DJ%E7%89%88%E8%A7%86%E9%A2%91%29.mp4",
+                "icon": "https://d.dayeapp.net/o.jpg",
+                "copy": "",
+                "version": "占位"
+            }
+        ]
+    }
+]
