@@ -31,6 +31,24 @@
             "changeable": 1
         },
         {
+      "key": "应用商店",
+      "name": "🤡┃商店┃市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 1,
+      "ext": "./jar/商店.json",
+      "jar": "./jar/yt.jar"
+        },
+        {
+      "key": "市场环境",
+      "name": "🤡┃场",
+      "type": 3,
+      "api": "csp_BinMarket",
+      "searchable": 1,
+      "ext": "./jar/lab.json",
+      "jar": "./jar/binRunner.jar"
+        },
+        {
             "key": "哔哩so",
             "name": "哔哩so",
             "type": 3,
