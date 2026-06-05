@@ -196,8 +196,8 @@
         }
     },
     {
-        "key": "miss",
-        "name": "miss",
+        "key": "mi",
+        "name": "mi",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -210,7 +210,126 @@
             "type": "rect",
             "ratio": 1.333
         },
-        "ext": "./json/miss.json"
+        "ext": "./json/9.json"
+    },
+    {
+        "key": "1",
+        "name": "1",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/1.json"
+    },
+    {
+        "key": "2",
+        "name": "2",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/2.json"
+    },
+    {
+        "key": "3",
+        "name": “3",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/3.json"
+    },
+    {
+        "key": "4",
+        "name": "4",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/4.json"
+    },
+    {
+        "key": "5",
+        "name": "5",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/5.json"
+    },
+    {
+        "key": "6",
+        "name": "6",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/6.json"
+    },
+    {
+        "key": "10",
+        "name": "10",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/10.json"
     },
     {
         "key": "仓库",
@@ -244,7 +363,7 @@
             "type": "rect",
             "ratio": 1.333
             },
-            "ext": "./json/无码.json"
+            "ext": "./json/7.json"
      },
     {
         "key": "酒店",
@@ -261,7 +380,7 @@
             "type": "rect",
             "ratio": 1.333
         },
-        "ext": "./json/酒店.json"
+        "ext": "./json/8.json"
     },
     {
         "key": "绿色仓库",
