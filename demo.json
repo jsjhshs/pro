@@ -451,10 +451,10 @@
         "ext": "./json/新黄仓库.json"
     },
     {
-        "key": "py_youtube",
-        "name": "🅿️youtube",
+        "key": "py_yout",
+        "name": "🅿️yout",
         "type": 3,
-        "api": "./py/油管.py",
+        "api": "./py/水管.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
