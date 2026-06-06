@@ -30,24 +30,6 @@
             },
             "changeable": 1
         },
-       /*{
-      "key": "应用商店",
-      "name": "🤡┃商店┃市场",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 1,
-      "ext": "./jar/商店.json",
-      "jar": "./jar/yt.jar"
-        },
-        {
-      "key": "市场环境",
-      "name": "🤡┃场",
-      "type": 3,
-      "api": "csp_BinMarket",
-      "searchable": 1,
-      "ext": "./jar/lab.json",
-      "jar": "./jar/binRunner.jar"
-        },*/
         {
             "key": "哔哩so",
             "name": "哔哩so",
@@ -120,69 +102,6 @@
                 "ratio": 1.33
             },
             "changeable": 1
-        }
-    ],
-    //"proxy": [
-        {
-            "name": "TW-4GTV",
-            "hosts": [
-                "hinet.net",
-                "cdn.hinet.net",
-                "4gtv.tv",
-                ".*boku.*",
-                ".*nivod.*",
-                ".*ulivetv.*",
-                "infini.money"
-            ],
-            "urls": [
-                "http://127.0.0.7890"
-            ]
-        },
-        {
-            "name": "YouTube",
-            "hosts": [
-                "youtube.com",
-                "www.youtube.com",
-                "m.youtube.com",
-                "youtu.be",
-                "googlevideo.com",
-                "ytimg.com",
-                "i.ytimg.com",
-                "ggpht.com",
-                "yt3.ggpht.com",
-                "googleapis.com",
-                "youtubei.googleapis.com",
-                "gstatic.com",
-                "nhacmp3youtube.com"
-            ],
-            "urls": [
-                "http://127.0.0.1:7890"
-            ]
-        },
-        {
-            "name": "stream",
-            "hosts": [
-                "stream1.freetv.fun",
-                "stream-link.org",
-                "infini.money"
-            ],
-            "urls": [
-                "http://127.0.0.1:7890",
-                "https://127.0.0.1:7890"
-            ]
-        },
-        {
-            "name": "US",
-            "hosts": [
-                "playouts.now.amagi.tv",
-                "rastamusic.streamguys1.com",
-                "tunein.cdnstream1.com",
-                "prd.pluto.tv"
-            ],
-            "urls": [
-                "http://127.0.0.1:7890",
-                "https://127.0.0.1:7890"
-            ]
         }
     ]
 }
