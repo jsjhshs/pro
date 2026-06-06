@@ -15,7 +15,7 @@
             },
             "ext": {
                 //"proxy": "http://127.0.0.1:7890",
-                "youtube_txt": "../json/youtube.txt"
+                "youtube_txt": "./json/youtube.txt"
             },
             "filterable": 1
         },
@@ -30,7 +30,7 @@
             },
             "changeable": 1
         },
-        {
+       /*{
       "key": "应用商店",
       "name": "🤡┃商店┃市场",
       "type": 3,
@@ -47,7 +47,7 @@
       "searchable": 1,
       "ext": "./jar/lab.json",
       "jar": "./jar/binRunner.jar"
-        },
+        },*/
         {
             "key": "哔哩so",
             "name": "哔哩so",
@@ -122,7 +122,7 @@
             "changeable": 1
         }
     ],
-    "proxy": [
+    //"proxy": [
         {
             "name": "TW-4GTV",
             "hosts": [
