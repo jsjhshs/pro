@@ -281,23 +281,6 @@
         "ext": "./json/4.json"
     },
     {
-        "key": "5",
-        "name": "5",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "./jar/XBPQ.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.333
-        },
-        "ext": "./json/5.json"
-    },
-    {
         "key": "6",
         "name": "6",
         "type": 3,
@@ -315,8 +298,8 @@
         "ext": "./json/6.json"
     },
     {
-        "key": "10",
-        "name": "10",
+        "key": "7",
+        "name": "7",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "./jar/XBPQ.jar",
@@ -329,7 +312,24 @@
             "type": "rect",
             "ratio": 1.333
         },
-        "ext": "./json/10.json"
+        "ext": "./json/7.json"
+    },
+    {
+        "key": "8",
+        "name": "8",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./jar/XBPQ.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        },
+        "ext": "./json/8.json"
     },
     {
         "key": "仓库",
