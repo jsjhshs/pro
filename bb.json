@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/so0604.jar",
+    "spider": "./so0604.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -13,7 +13,6 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "./json/youtube.txt",
             "filterable": 1
         },
         {
@@ -71,7 +70,7 @@
             "name": "采集全集",
             "type": 3,
             "api": "csp_CJJH",
-            "ext": "http://127.0.0.1:9978/file/lz/cj.json#2",
+            "ext": "http://127.0.0.1:9978/file/lz/cj.json#0",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
