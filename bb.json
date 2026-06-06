@@ -13,10 +13,7 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": {
-                //"proxy": "http://127.0.0.1:7890",
-                "youtube_txt": "./json/youtube.txt"
-            },
+            "ext": "./json/youtube.txt",
             "filterable": 1
         },
         {
