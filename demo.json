@@ -499,7 +499,7 @@
         "key": "py_91",
         "name": "🅿️91",
         "type": 3,
-        "api": "./py_91.py",
+        "api": "./py/py_91.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
@@ -515,6 +515,21 @@
         "name": "🅿️香蕉视频",
         "type": 3,
         "api": "./py/香蕉视频.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_花都",
+        "name": "🅿️花都",
+        "type": 3,
+        "api": "./json/花.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
