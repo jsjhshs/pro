@@ -391,17 +391,18 @@
         }
     },
     {
-        "key": "csp_PingLian",
-        "name": "😃盘链┃4K",
+        "key": "py_瓜子",
+        "name": "🅿️瓜子",
         "type": 3,
-        "api": "csp_PingLian",
+        "api": "./py/瓜子.py",
         "searchable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "timeout": 60,
-        "ext": {
-            "cookie": "",
-            "filters": "./json/pinglian.json",
-            "sites": "https://pinglian.lol"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
