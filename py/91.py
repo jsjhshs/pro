@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # by @嗷呜
 import sys
-import re
 from Crypto.Cipher import AES
 from pyquery import PyQuery as pq
 sys.path.append('..')
@@ -80,13 +79,12 @@ class Spider(Spider):
         resp=self.fetch(self.host+ids[0],headers=self.headers)
         doc=pq(resp.content)
         stext=doc('.player-wrapper > script').eq(-1).html().strip()
-        m = re.search(r'(https?://[^\s"\'<>;]+)', stext)
-        if m:
-            url = m.group(1)
-            p = 0
-        else:
-            url = self.host + ids[0]
-            p = 1
+        try:
+            url=stext.split('\n')[-1].split('=')[-1].replace('"','').replace(';','').strip()
+            p=0
+        except Exception as e:
+            url=self.host+ids[0]
+            p=1
         vod = {
             'vod_director': '',
             'vod_play_from': '91——short',
