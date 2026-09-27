@@ -406,71 +406,78 @@
         }
     },
     {
-        "key": "csp_SeedHub",
-        "name": "🎳Seed┃Hub",
+        "key": "py_西瓜短剧",
+        "name": "🅿️西瓜短剧",
         "type": 3,
-        "api": "csp_SeedHub",
-        "timeout": 60,
+        "api": "./py/西瓜短剧.py",
         "searchable": 1,
-        "changeable": 0
-    },
-    {
-        "key": "csp_Xxzn",
-        "name": "🤑4K┃指南",
-        "type": 3,
-        "api": "csp_Xxzn",
-        "filterable": 1,
-        "searchable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "timeout": 60,
-        "ext": {
-            "filters": "./json/xxzn.json",
-            "sites": "https://4kzn.com"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
-        "key": "csp_Wogg",
-        "name": "😁玩偶┃哥哥",
+        "key": "py_星芽短剧",
+        "name": "🅿️星芽短剧",
         "type": 3,
-        "api": "csp_Wogg",
-        "timeout": 60,
+        "api": "./py/星芽短剧.py",
         "searchable": 1,
-        "filterable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "ext": {
-            "sites": "https://wogg.xxooo.cf",
-            "filters": "./json/wogg.json",
-            "proxy": "noproxy"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
-        "key": "欧歌网盘",
-        "name": "🤪欧歌┃网盘",
+        "key": "py_悟圣短剧",
+        "name": "🅿️悟圣短剧",
         "type": 3,
-        "api": "csp_Wobg",
+        "api": "./py/悟圣短剧.py",
         "searchable": 1,
-        "filterable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "timeout": 60,
-        "ext": {
-            "sites": "https://woog.nxog.eu.org",
-            "filters": "./json/wogg2.json",
-            "proxy": "noproxy"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
-        "key": "蜡笔网盘",
-        "name": "🤩蜡笔┃网盘",
+        "key": "py_喜福短剧",
+        "name": "🅿️喜福短剧",
         "type": 3,
-        "api": "csp_Wobg",
+        "api": "./py/喜福短剧.py",
         "searchable": 1,
-        "filterable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "timeout": 60,
-        "ext": {
-            "sites": "http://fmao.shop",
-            "filters": "./json/wogg2.json",
-            "proxy": "noproxy"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_蚕驰短剧",
+        "name": "🅿️蚕驰短剧",
+        "type": 3,
+        "api": "./py/蚕驰短剧.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
