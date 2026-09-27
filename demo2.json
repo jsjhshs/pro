@@ -349,7 +349,7 @@
         "key": "py_花都",
         "name": "🅿️花都",
         "type": 3,
-        "api": "./json/花都.py",
+        "api": "./py/花都.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
