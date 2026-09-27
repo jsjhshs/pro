@@ -361,10 +361,10 @@
         }
     },
    {
-        "key": "py_花都影视",
-        "name": "🅿️花都影视",
+        "key": "py_七区",
+        "name": "🅿️七区",
         "type": 3,
-        "api": "./py/花都影视.py",
+        "api": "./py/菠萝七区.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
