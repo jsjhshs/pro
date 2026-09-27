@@ -286,10 +286,10 @@
         }
     },
     {
-        "key": "py_51吃瓜",
-        "name": "🅿️51吃瓜",
+        "key": "py_九合一",
+        "name": "🅿️51九合一",
         "type": 3,
-        "api": "./py/51吃瓜.py",
+        "api": "./py/花都影视.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
