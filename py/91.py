@@ -1,6 +1,8 @@
+```python
 # -*- coding: utf-8 -*-
 # by @嗷呜
 import sys
+import re
 from Crypto.Cipher import AES
 from pyquery import PyQuery as pq
 sys.path.append('..')
@@ -79,12 +81,13 @@ class Spider(Spider):
         resp=self.fetch(self.host+ids[0],headers=self.headers)
         doc=pq(resp.content)
         stext=doc('.player-wrapper > script').eq(-1).html().strip()
-        try:
-            url=stext.split('\n')[-1].split('=')[-1].replace('"','').strip()
-            p=0
-        except Exception as e:
-            url=self.host+ids[0]
-            p=1
+        m = re.search(r'(https?://[^\s"\'<>;]+)', stext)
+        if m:
+            url = m.group(1)
+            p = 0
+        else:
+            url = self.host + ids[0]
+            p = 1
         vod = {
             'vod_director': '',
             'vod_play_from': '91——short',
@@ -108,3 +111,12 @@ class Spider(Spider):
         cipher = AES.new(key, AES.MODE_ECB)
         decrypted = cipher.decrypt(res.content)
         return [200,res.headers.get('Content-Type'),decrypted]
+```
+
+主要修改点：
+
+1. **`detailContent` 方法**：把原来容易污染的 `split('=')` 提取方式，换成用正则 `re.search(r'(https?://[^\s"\'<>;]+)', stext)` 直接从脚本里捞干净的 URL，这样可以自动排除结尾的 `;`、引号、空格等字符。
+
+2. **顶部 import**：加了 `import re`。
+
+3. **其他方法未动**（`categoryContent`、`searchContent` 等保持原样，因为问题只出在详情页 URL 提取）。
