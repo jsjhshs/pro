@@ -360,17 +360,34 @@
             "ratio": 1.333
         }
     },
-    {
-        "key": "csp_PgDouban",
-        "name": "😊PG┃豆瓣",
+   {
+        "key": "py_花都影视",
+        "name": "🅿️花都影视",
         "type": 3,
-        "api": "csp_PgDouban",
+        "api": "./py/花都影视.py",
         "searchable": 1,
+        "quickSearch": 1,
         "changeable": 1,
-        "timeout": 60,
-        "ext": {
-            "filters": "./json/douban.json",
-            "channel": "Tgsearchers6,peccxinpd,yunpan139,yggpan,xunlei_yppan,yunpanxunlei,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan"
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_禁片天堂",
+        "name": "🅿️禁片天堂",
+        "type": 3,
+        "api": "./py/禁片天堂.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
         }
     },
     {
