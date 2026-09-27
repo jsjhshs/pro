@@ -111,12 +111,3 @@ class Spider(Spider):
         cipher = AES.new(key, AES.MODE_ECB)
         decrypted = cipher.decrypt(res.content)
         return [200,res.headers.get('Content-Type'),decrypted]
-```
-
-主要修改点：
-
-1. **`detailContent` 方法**：把原来容易污染的 `split('=')` 提取方式，换成用正则 `re.search(r'(https?://[^\s"\'<>;]+)', stext)` 直接从脚本里捞干净的 URL，这样可以自动排除结尾的 `;`、引号、空格等字符。
-
-2. **顶部 import**：加了 `import re`。
-
-3. **其他方法未动**（`categoryContent`、`searchContent` 等保持原样，因为问题只出在详情页 URL 提取）。
