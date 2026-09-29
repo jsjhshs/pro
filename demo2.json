@@ -421,6 +421,21 @@
         }
     },
     {
+        "key": "py_红果短剧备",
+        "name": "🅿️红果短剧备",
+        "type": 3,
+        "api": "./py/红.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
         "key": "py_星芽短剧",
         "name": "🅿️星芽短剧",
         "type": 3,
