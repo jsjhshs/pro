@@ -421,8 +421,8 @@
         }
     },
     {
-        "key": "py_红果短剧备",
-        "name": "🅿️红果短剧备",
+        "key": "py_红果",
+        "name": "🅿️红果",
         "type": 3,
         "api": "./py/红.py",
         "searchable": 1,
