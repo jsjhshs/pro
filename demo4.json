@@ -258,7 +258,7 @@
         },
         "ext": "./json/新黄仓库.json"
     },
-    {
+        {
         "key": "py_yout",
         "name": "🅿️yout",
         "type": 3,
@@ -274,10 +274,10 @@
         }
     },
     {
-        "key": "py_51吃瓜",
-        "name": "🅿️51吃瓜",
+        "key": "py_九合一",
+        "name": "🅿️51九合一",
         "type": 3,
-        "api": "./py/51吃瓜.py",
+        "api": "./py/花都影视.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
@@ -337,7 +337,142 @@
         "key": "py_花都",
         "name": "🅿️花都",
         "type": 3,
-        "api": "./json/花.py",
+        "api": "./py/花都.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+   {
+        "key": "py_七区",
+        "name": "🅿️七区",
+        "type": 3,
+        "api": "./py/菠萝七区.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_禁片天堂",
+        "name": "🅿️禁片天堂",
+        "type": 3,
+        "api": "./py/禁片天堂.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_瓜子",
+        "name": "🅿️瓜子",
+        "type": 3,
+        "api": "./py/瓜子.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_西瓜短剧",
+        "name": "🅿️西瓜短剧",
+        "type": 3,
+        "api": "./py/西瓜短剧.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_红果",
+        "name": "🅿️红果",
+        "type": 3,
+        "api": "./py/红.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_星芽短剧",
+        "name": "🅿️星芽短剧",
+        "type": 3,
+        "api": "./py/星芽短剧.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_悟圣短剧",
+        "name": "🅿️悟圣短剧",
+        "type": 3,
+        "api": "./py/悟圣短剧.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_喜福短剧",
+        "name": "🅿️喜福短剧",
+        "type": 3,
+        "api": "./py/喜福短剧.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120,
+        "style": {
+            "type": "rect",
+            "ratio": 1.333
+        }
+    },
+    {
+        "key": "py_蚕驰短剧",
+        "name": "🅿️蚕驰短剧",
+        "type": 3,
+        "api": "./py/蚕驰短剧.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
